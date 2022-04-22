@@ -1,0 +1,15 @@
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\bin\Debug\net6.0\desafio01.exe
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\bin\Debug\net6.0\desafio01.deps.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\bin\Debug\net6.0\desafio01.runtimeconfig.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\bin\Debug\net6.0\desafio01.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\bin\Debug\net6.0\desafio01.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.csproj.AssemblyReference.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.AssemblyInfoInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.AssemblyInfo.cs
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.csproj.CoreCompileInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\refint\desafio01.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\desafio01.genruntimeconfig.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\desafio01\obj\Debug\net6.0\ref\desafio01.dll

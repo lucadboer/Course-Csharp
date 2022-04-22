@@ -1,0 +1,15 @@
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\bin\Debug\net6.0\Get_Set.exe
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\bin\Debug\net6.0\Get_Set.deps.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\bin\Debug\net6.0\Get_Set.runtimeconfig.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\bin\Debug\net6.0\Get_Set.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\bin\Debug\net6.0\Get_Set.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.csproj.AssemblyReference.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.AssemblyInfoInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.AssemblyInfo.cs
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.csproj.CoreCompileInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\refint\Get_Set.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\Get_Set.genruntimeconfig.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Get_Set\obj\Debug\net6.0\ref\Get_Set.dll

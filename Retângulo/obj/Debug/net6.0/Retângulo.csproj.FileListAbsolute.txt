@@ -1,0 +1,15 @@
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\bin\Debug\net6.0\Retângulo.exe
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\bin\Debug\net6.0\Retângulo.deps.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\bin\Debug\net6.0\Retângulo.runtimeconfig.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\bin\Debug\net6.0\Retângulo.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\bin\Debug\net6.0\Retângulo.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.csproj.AssemblyReference.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.AssemblyInfoInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.AssemblyInfo.cs
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.csproj.CoreCompileInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\refint\Retângulo.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\Retângulo.genruntimeconfig.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Retângulo\obj\Debug\net6.0\ref\Retângulo.dll

@@ -1,0 +1,15 @@
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\bin\Debug\net6.0\Heranca.exe
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\bin\Debug\net6.0\Heranca.deps.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\bin\Debug\net6.0\Heranca.runtimeconfig.json
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\bin\Debug\net6.0\Heranca.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\bin\Debug\net6.0\Heranca.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.AssemblyInfo.cs
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\refint\Heranca.dll
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.pdb
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\Heranca.genruntimeconfig.cache
+C:\Users\yauso\OneDrive\Documentos\Cursos\Curso C#\workspace\Curso Csharp\Herança\obj\Debug\net6.0\ref\Heranca.dll
