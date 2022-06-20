@@ -1,0 +1,16 @@
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\bin\Debug\net5.0\Tipos_referencias_valor.exe
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\bin\Debug\net5.0\Tipos_referencias_valor.deps.json
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\bin\Debug\net5.0\Tipos_referencias_valor.runtimeconfig.json
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\bin\Debug\net5.0\Tipos_referencias_valor.runtimeconfig.dev.json
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\bin\Debug\net5.0\Tipos_referencias_valor.dll
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\bin\Debug\net5.0\ref\Tipos_referencias_valor.dll
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\bin\Debug\net5.0\Tipos_referencias_valor.pdb
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.csproj.AssemblyReference.cache
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.AssemblyInfoInputs.cache
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.AssemblyInfo.cs
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.csproj.CoreCompileInputs.cache
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.dll
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\ref\Tipos_referencias_valor.dll
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.pdb
+C:\Users\luca\Documents\workspace\Curso C#\Curso-Csharp\Tipos_referencias_valor\obj\Debug\net5.0\Tipos_referencias_valor.genruntimeconfig.cache
